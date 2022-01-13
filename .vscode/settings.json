@@ -4,6 +4,6 @@
     "cmake.configureSettings": {
         "CMAKE_PREFIX_PATH": "${workspaceFolder}/qt/6.2.2/macos"
     },
-    "cmake.loggingLevel": "info",
+    "cmake.loggingLevel": "debug",
     "C_Cpp.loggingLevel": "Error"
 }
