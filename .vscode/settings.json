@@ -1,0 +1,9 @@
+{
+    "cmake.buildDirectory": "${workspaceFolder}/build",
+    "cmake.installPrefix": "${workspaceFolder}/qt/6.2.2/macos",
+    "cmake.configureSettings": {
+        "CMAKE_PREFIX_PATH": "${workspaceFolder}/qt/6.2.2/macos"
+    },
+    "cmake.loggingLevel": "info",
+    "C_Cpp.loggingLevel": "Error"
+}
